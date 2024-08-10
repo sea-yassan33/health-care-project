@@ -1,0 +1,22 @@
+.pdTopMain{
+  /* 画像の位置設定 */
+  background: 
+        linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
+        url('https://i.gyazo.com/48345db6f2087909813d4518016a688d.png');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
+.pdTopTitle{
+  /* タイトルの位置設定*/
+  padding-top: 10.0rem;
+  padding-bottom: 12.0rem;
+  text-align: right; 
+}
+
+.pdFontRoboto{
+  font-style: italic;
+  font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";;
+}
